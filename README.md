@@ -1,4 +1,4 @@
-# Build/COntainerize Spring PetClinic App
+# Build and containerize Spring PetClinic App
 
 This project is based on the official [Spring PetClinic Sample Application](https://github.com/spring-projects/spring-petclinic).
 
